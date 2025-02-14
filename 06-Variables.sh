@@ -1,3 +1,4 @@
+$1,$2,$3
 echo " All the variables passsed :$@"
 echo "number of variables :$#"
 echo "script name:$0"
